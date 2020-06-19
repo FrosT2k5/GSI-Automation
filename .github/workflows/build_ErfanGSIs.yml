@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://tdrive.manofuranium.workers.dev/AIM-System-V4.1-Unofficial-Lucid-rosy-20200528-0500.zip
-  ROM_NAME: Generic:AIM
+  ROM_URL: https://master.dl.sourceforge.net/project/frost2k5/Corvus/Corvus_v6.0-sakura-11062020-UNOFFICIAL-1558.zip
+  ROM_NAME: Generic:Corvus
   ZIP_NAME: DerpGSI
   TZ: Asia/Kolkata
 
