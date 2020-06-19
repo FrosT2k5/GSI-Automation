@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ayera.dl.sourceforge.net/project/miuiromports//Whyred/MASIK%20X/Masik%20X%2013.2%20v2%20Whyred%20port.zip
-  ROM_NAME: MIUI:MasikX
-  ZIP_NAME: MasikX
+  ROM_URL: https://downloads.sourceforge.net/project/frost2k5/Derpfest/DerpFest-10-Community-sakura-20200608.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Ffrost2k5%2Ffiles%2FDerpfest%2FDerpFest-10-Community-sakura-20200608.zip%2Fdownload&ts=1592581190
+  ROM_NAME: Generic
+  ZIP_NAME: DerpGSI
   TZ: Asia/Kolkata
 
 jobs:
