@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ayera.dl.sourceforge.net/project/frost2k5/Derpfest/DerpFest-10-Community-sakura-20200608.zip
+  ROM_URL: https://get.derpfest.org/dumpling/builds/DerpFest-10-Official-dumpling-20200611.zip
   ROM_NAME: Generic:DerpFest
   ZIP_NAME: DerpGSI
   TZ: Asia/Kolkata
