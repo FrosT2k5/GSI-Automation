@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.derpfest.org/dumpling/builds/DerpFest-10-Official-dumpling-20200611.zip
-  ROM_NAME: Generic:DerpFest
+  ROM_URL: http://tdrive.manofuranium.workers.dev/AIM-System-V4.1-Unofficial-Lucid-rosy-20200528-0500.zip
+  ROM_NAME: Generic:AIM
   ZIP_NAME: DerpGSI
   TZ: Asia/Kolkata
 
